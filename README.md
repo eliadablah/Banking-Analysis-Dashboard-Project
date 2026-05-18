@@ -108,3 +108,9 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Final insights from EDA, including correlations and demographic trends.  
 
 <img src="powerbi/page4_summary.png" alt="Page 4 - Summary" width="700"/>
+
+<img width="1304" height="732" alt="page1_home" src="https://github.com/user-attachments/assets/ab67052a-af55-4dcd-857c-2deef7a931e6" />
+<img width="1305" height="732" alt="page2_loan_analysis" src="https://github.com/user-attachments/assets/739511ed-1349-4574-9380-0e98e7c9ed6e" />
+<img width="1306" height="733" alt="page3_deposit_analysis" src="https://github.com/user-attachments/assets/2f59e935-5e6b-4bd7-9660-3395a2315e68" />
+<img width="1306" height="735" alt="page4_summary" src="https://github.com/user-attachments/assets/d4457683-3f67-49c6-8693-564633b7797c" />
+
